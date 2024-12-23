@@ -27,6 +27,7 @@ input[type=range]::-ms-track{width:100%;cursor:pointer;background:transparent;bo
 data-styled.g1[id="sc-global-rutRP1"]{content:"sc-global-rutRP1,"}/*!sc*/
 .bZjBlZ{z-index:101;}/*!sc*/
 data-styled.g85[id="sc-52f697ca-0"]{content:"bZjBlZ,"}/*!sc*/
+
 *{font-family:'Kanit',sans-serif;}/*!sc*/
 body{background-color:var(--colors-background);}/*!sc*/
 body img{height:auto;max-width:100%;}/*!sc*/
