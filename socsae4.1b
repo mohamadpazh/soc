@@ -12,6 +12,11 @@ ol,ul{list-style:disc;list-style-position:inside;}/*!sc*/
 blockquote,q{quotes:none;}/*!sc*/
 blockquote:before,blockquote:after,q:before,q:after{content:none;}/*!sc*/
 table{border-collapse:collapse;border-spacing:0;}/*!sc*/
+ight:1;font-size:16px;}/*!sc*/
+ol,ul{list-style:disc;list-style-position:inside;}/*!sc*/
+blockquote,q{quotes:none;}/*!sc*/
+blockquote:before,blockquote:after,q:before,q:after{content:none;}/*!sc*/
+table{border-collapse:collapse;border-spacing:0;}/*!sc*/
 
 a{color:inherit;text-decoration:none;}/*!sc*/
 
